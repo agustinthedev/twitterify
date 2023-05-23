@@ -1,4 +1,4 @@
-# twitterify
+# Twitterify
 
 Twitterify is an application I developed as part of a personal project that aims to automate Twitter accounts' behaviour and growth.
 
